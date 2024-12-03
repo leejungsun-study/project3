@@ -10,6 +10,8 @@
 
 # production
 /build
+/내컴에서확인가능-빌드
+/서버에 올려서 확인
 
 # misc
 .DS_Store
